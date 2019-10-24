@@ -1,2 +1,2 @@
 six
-social-auth-core >= 3.2.0
+git+git://github.com/iandowell/social-core.git#egg=social-auth-core
