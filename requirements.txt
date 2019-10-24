@@ -1,2 +1,2 @@
 six
--e git+https://www.github.com/iandowell/social-core.git#egg=social-auth-core
+https://github.com/iandowell/social-core/archive/master.zip
