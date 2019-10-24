@@ -1,2 +1,2 @@
 six
-git+git://github.com/iandowell/social-core.git#egg=social-auth-core
+-e git+https://www.github.com/iandowell/social-core.git#egg=social-auth-core
