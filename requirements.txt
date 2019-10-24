@@ -1,1 +1,2 @@
 six
+https://github.com/iandowell/social-core/archive/master.zip

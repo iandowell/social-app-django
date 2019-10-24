@@ -40,7 +40,10 @@ setup(
     ],
     long_description=long_description(),
     long_description_content_type='text/markdown',
-    install_requires=load_requirements(),
+    install_requires=[
+        "six",
+        "social-auth-core >= 3.2.0"
+    ],
     classifiers=[
         'Development Status :: 4 - Beta',
         'Topic :: Internet',
