@@ -1,2 +1,2 @@
 six
--e git+https://github.com/iandowell/social-core#egg==social-core
+-e git+https://github.com/iandowell/social-core#egg=social-core
