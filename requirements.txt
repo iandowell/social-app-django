@@ -1,2 +1,2 @@
 six
-https://github.com/iandowell/social-core/archive/master.zip
+-e git+https://github.com/iandowell/social-core#egg==social-core
